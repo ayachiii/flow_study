@@ -2,6 +2,7 @@
 # EGG data
 mat_to_csvフォルダは、SSSEP~.mat(生データ)から、各端子のPLIを算出したcsvファイルの出し方。
 実行結果は、PLI_0_kumakura_rest.csv,concentration_1_kumakura_practice.csvが出力される。場所は、csv->0_kumakura->PLIdata
+
 現在、yamashita_overloadだけがエラーでてうまくいっていないけど
 
 PLI_Analysis.ipynbはmat_to_csvで作成したcsvファイルを使って一秒ごとのPLIを算出して描画するプログラム。
@@ -21,6 +22,7 @@ LF,HFはどの値をとってるのかわからない
 
 # 次の目標　
 csvの一人分を全部揃わせること
+
 今足りないもの(last yearの中で)
 ・ECG:kumakura_HRV.csv
 ・PLIdata:mean_PLI_kumakura.csv
