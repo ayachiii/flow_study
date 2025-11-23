@@ -53,14 +53,11 @@ focus_on_single_subject自作.ipynbにて、FczのconcentrationとLFを描画す
 
 修論:一元配置分散分析 HRV-LF,HRV-HF,認知作業負荷、FC3,FC4,FCz
 
-    二次回帰分析　独立変数をフロースコアに、従属関数をHRV-LF、認知作業負荷(FC3,FC4,FCz)をとった
-    
-    その他の分析　
-    
-    フェーズ別分布:BPM,Breathing rate,IBI,認知作業負荷(FC3,FC4,FCz)の最大値、HRV-LF最小                        値,HRV-HF最小値,PNN20,PNN50,rMSSD,SDI,SD2,sdsd
-    
-    二次回帰分析:bpm,breathingrate,認知作業負荷(FC3,FC4,FCz)の最大値、HRV-HF,
-              HRV-LF,PNN20,PNN50,rMSSD,sd1,sd2,sdsd
+二次回帰分析　独立変数をフロースコアに、従属関数をHRV-LF、認知作業負荷(FC3,FC4,FCz)をとった
+
+その他の分析　フェーズ別分布:BPM,Breathing rate,IBI,認知作業負荷(FC3,FC4,FCz)の最大値、HRV-LF最小値,HRV-HF最小値,PNN20,PNN50,rMSSD,SDI,SD2,sdsd
+
+二次回帰分析:bpm,breathingrate,認知作業負荷(FC3,FC4,FCz)の最大値、HRV-HF,HRV-LF,PNN20,PNN50,rMSSD,sd1,sd2,sdsd
               
 卒論:フロースコアと各指標間の相関分析
 kokokara!!!!!
