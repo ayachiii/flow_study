@@ -123,3 +123,4 @@ disp("meanAll : " + mean(mean(PLI(60:calc_time,:))));
 disp("mean FC2,FC3,FCz : " + mean(mean(PLI(60:calc_time,2:4))));
 
 
+
